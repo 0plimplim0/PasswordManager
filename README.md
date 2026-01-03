@@ -1,5 +1,10 @@
 # ADMINISTRADOR DE CONTRASEÑAS
 
+### Disclaimer
+
+Este proyecto no está usado para uso real (Por ahora).
+Más adelante cuando sepa más de criptografia lanzare la v2 apta para su uso real.
+
 ## Qué es?
 
 Pues como el nombre lo dice, es un administrador de contraseñas jaja.
