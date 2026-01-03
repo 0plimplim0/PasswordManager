@@ -9,7 +9,7 @@ Este especificamente sirve para generar contraseñas aleatorias y guardarlas. Ta
 
 1. Clonar el repositorio
 ```
-git clone https://github.com/0plimplim0/frikimeter
+git clone https://github.com/0plimplim0/PasswordManager
 ```
 2. Crear el archivo data.json
 3. Listo, ya puedes utilizar el programa.
