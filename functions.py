@@ -72,9 +72,9 @@ def menu_ver():
         datos = json.load(json_file)
 
     for dato in datos:
-        print(f"Sitio: {dato["Sitio"]}")
-        print(f"Nombre: {dato["Nombre"]}")
-        print(f"Correo: {dato["Correo"]}")
-        print(f"Contraseña: {dato["Password"]}\n")
+        print(f"Sitio: {dato['Sitio']}")
+        print(f"Nombre: {dato['Nombre']}")
+        print(f"Correo: {dato['Correo']}")
+        print(f"Contraseña: {dato['Password']}\n")
 
     input("\nPresiona ENTER para volver.")

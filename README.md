@@ -11,7 +11,7 @@ Este especificamente sirve para generar contraseñas aleatorias y guardarlas. Ta
 ```
 git clone https://github.com/0plimplim0/PasswordManager
 ```
-2. Crear el archivo data.json
+2. Crear el archivo data.json (Debe empezar por [] porque es una lista de diccionarios)
 3. Listo, ya puedes utilizar el programa.
 
 ## Futuras mejoras
