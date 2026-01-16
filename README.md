@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-Este proyecto no está usado para uso real (Por ahora).
+Este proyecto no está pensado para uso real (Por ahora).
 Más adelante cuando sepa más de criptografia lanzare la v2 apta para su uso real.
 
 ## Qué es?
